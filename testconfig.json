@@ -1,6 +1,6 @@
 {
   "conf_version":2,
-  "ad_interval_sec":3,
+  "ad_interval_sec":10,
   "ad_filter_sticker_interval_num":1,
   "ad_mix":{
     "ad_native_click_area_only_button_f":1,
@@ -10,17 +10,17 @@
     "ads":[
       { 
         "ad_place":chaye3,
-        "ad_pid":ca-app-pub-3940256099942544/103317371,
+        "ad_pid":ca-app-pub-3940256099942544/1033173712,
         "ad_source":admob,
         "ad_type":interstitial},
       { 
         "ad_place":chaye2,
-        "ad_pid":ca-app-pub-3940256099942544/103317371,
+        "ad_pid":ca-app-pub-3940256099942544/1033173712,
         "ad_source":admob,
         "ad_type":interstitial},
       { 
         "ad_place":chaye,
-        "ad_pid":ca-app-pub-3940256099942544/103317371,
+        "ad_pid":ca-app-pub-3940256099942544/1033173712,
         "ad_source":admob,
         "ad_type":interstitial},
       { 
